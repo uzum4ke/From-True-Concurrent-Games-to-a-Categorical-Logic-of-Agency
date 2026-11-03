@@ -1,6 +1,6 @@
 # From True-Concurrent Games to a Categorical Logic of Agency
 
-This repository contains research manuscript on the categorical foundations of cybernetics. It asks how to describe a system of interacting agents so that, when components are connected, we can still tell who controls each decision, what information reaches it, and which actions remain possible.
+This repository contains research on the categorical foundations of cybernetics. It asks how to describe a system of interacting agents so that, when components are connected, we can still tell who controls each decision, what information reaches it, and which actions remain possible.
 
 A running example shows why these distinctions matter. Two pairs of policies produce the same observed actions, but only one pair satisfies an authorization rule. A checker that sees only the current actions cannot tell the cases apart. The paper constructs the extra signals the checker needs and traces the authorization token to the action it enables.
 
